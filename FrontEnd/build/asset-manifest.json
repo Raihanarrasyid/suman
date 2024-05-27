@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94248520.css",
+    "main.js": "/static/js/main.33152e16.js",
+    "static/media/logo.png": "/static/media/logo.b100e115cbe8bfd0c77b.png",
+    "static/media/1.png": "/static/media/1.67965a17195e6e196334.png",
+    "static/media/Singkok Jala.png": "/static/media/Singkok Jala.24b3c838fc8b5563392d.png",
+    "static/media/Papan.png": "/static/media/Papan.2f464cc8df69e3d22f6a.png",
+    "static/media/Angso Belago.png": "/static/media/Angso Belago.7f61e64e9daad208b7ad.png",
+    "static/media/Biji Pala.png": "/static/media/Biji Pala.c1d707328778e262f9cd.png",
+    "static/media/2.png": "/static/media/2.93d8164442214ceb2ce9.png",
+    "static/media/3.png": "/static/media/3.60f612466c3c7973575b.png",
+    "static/media/round-neck-tshirt-mockup.png": "/static/media/round-neck-tshirt-mockup.7fe297c6855dd6738ff7.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.94248520.css.map": "/static/css/main.94248520.css.map",
+    "main.33152e16.js.map": "/static/js/main.33152e16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94248520.css",
+    "static/js/main.33152e16.js"
+  ]
+}
